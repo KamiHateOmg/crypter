@@ -91,4 +91,4 @@ You can reach me on [Discord : arnaqueurs](https://discord.gg/XGS5ajTXbJ)
 
 
 ### Disclaimer
-    I am clearly not responsible of ANY actions you do with my codes or other. This virus is created for educational purposes only.
+    I am clearly not responsible of ANY actions you do with my codes or other. This crypter has been created for educational purposes only.
