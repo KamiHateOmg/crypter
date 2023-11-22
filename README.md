@@ -75,7 +75,7 @@ Pre-requisites
 - [Python 3.9 or above](https://www.python.org/downloads) OR Windows OS
 
 
-<\details>
+</details>
 	
 	
 ### License
