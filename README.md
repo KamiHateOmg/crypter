@@ -92,4 +92,4 @@ You can reach me on [Discord : arnaqueurs](https://discord.gg/XGS5ajTXbJ)
 
 
 ### Disclaimer
-    I am clearly not responsible of ANY actions you do with my codes or other. This crypter has been created for educational purposes only.
+    I, the creator, am not responsible for any actions, and or damages, caused by this software. You bear the full responsibility of your actions and acknowledge that this tool was created for educational purposes only. This tool's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use. By using this software, you automatically agree to the above.
