@@ -73,6 +73,7 @@ Pre-requisites
 ###
 
 - [Python 3.9 or above](https://www.python.org/downloads) OR Windows OS
+- ```pip install pystyle colorama cryptography```
 
 
 </details>
